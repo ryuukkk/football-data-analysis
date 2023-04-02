@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="changed pkls to csv">
-      <change afterPath="$PROJECT_DIR$/created/all_goals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/goal_grouped_by_minute.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/goals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/grouped_by_players.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/matches.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/num_cols.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/created/penalties.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
