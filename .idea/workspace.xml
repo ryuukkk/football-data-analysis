@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/all_goals.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/goal_grouped_by_minute.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/goals.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/grouped_by_players.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/matches.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/num_cols.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/penalties.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
