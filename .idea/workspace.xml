@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="changed pkls to csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/score_histo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/score_histo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sahil_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sahil_work.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Sahil__Nayyar",
+    "last_opened_file_path": "/Users/sahilnayyar/Library/CloudStorage/OneDrive-Personal/GitHub/DE_Project",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
 }]]></component>
