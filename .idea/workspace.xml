@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="Added Heatmap visualization and save images for all visualization">
-      <change afterPath="$PROJECT_DIR$/figures/heatmap_home_team_VS_away_team_are_winner.jpg" afterDir="false" />
+    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="Added Mean Goals Dotted Line in Bar &amp; Line Chart">
+      <change afterPath="$PROJECT_DIR$/figures/kdp_own_goal_penalty.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/figures/goal_vs_penalties.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/goal_vs_penalties.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/heatmap_home_team_VS_away_team_who_wins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/heatmap_home_team_VS_away_team_are_winner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/heatmap_home_team_VS_away_team_are_winner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/kdp_away_goal_own_goal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/kdp_away_goal_own_goal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/kdp_home_goal_penalty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/kdp_home_goal_penalty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/penalty_vs_own_goal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/score_histo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/score_histo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sahil_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sahil_work.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +58,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="changed pkls to csv" />
     <MESSAGE value="Added Heatmap visualization and save images for all visualization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Heatmap visualization and save images for all visualization" />
+    <MESSAGE value="Added Mean Goals Dotted Line in Bar &amp; Line Chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Mean Goals Dotted Line in Bar &amp; Line Chart" />
   </component>
 </project>
