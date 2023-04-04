@@ -17,6 +17,13 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../DataspellProjects/AIDA Sem-1/Web Analytics/LO1-LO2/.idea/LO1-LO2.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../DataspellProjects/COMP603/.idea/COMP603.iml">
           <value>
             <JupyterConnectionParameters>
