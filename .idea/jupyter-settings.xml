@@ -28,7 +28,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkHomePath" value="/usr/local/bin/python3.9" />
+              <option name="sdkHomePath" value="C:\Users\thory\DataspellProjects\ipl-analysis\venv\Scripts\python.exe" />
             </JupyterConnectionParameters>
           </value>
         </entry>

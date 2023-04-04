@@ -1,11 +1,11 @@
-scorer,neutral,minute,own_goal,penalty,home_goal,away_goal,total_goals,nation
-Cristiano Ronaldo,18,4901.0,0,16,50,41,91,Portugal
-Robert Lewandowski,9,2838.0,0,11,29,27,56,San Marino
-Lionel Messi,25,2475.0,0,14,39,15,54,Argentina
-Ali Daei,23,2776.0,0,8,26,23,49,Iran
-Miroslav Klose,13,2316.0,0,0,29,19,48,Germany
-Carlos Ruiz,10,2115.0,0,4,32,15,47,Guatemala
-Luis Suárez,16,2414.0,0,9,28,18,46,Uruguay
-Zlatan Ibrahimović,5,2364.0,0,5,26,18,44,Sweden
-Harry Kane,10,2228.0,0,13,23,21,44,England
-Robbie Keane,5,1935.0,0,10,28,16,44,Republic of Ireland
+,scorer,neutral,minute,own_goal,penalty,home_goal,away_goal,total_goals,nation
+0,Cristiano Ronaldo,18,4901.0,0,16,50,41,91,Portugal
+1,Robert Lewandowski,9,2838.0,0,11,29,27,56,San Marino
+2,Lionel Messi,25,2475.0,0,14,39,15,54,Argentina
+3,Ali Daei,23,2776.0,0,8,26,23,49,Iran
+4,Miroslav Klose,13,2316.0,0,0,29,19,48,Germany
+5,Carlos Ruiz,10,2115.0,0,4,32,15,47,Guatemala
+6,Luis Suárez,16,2414.0,0,9,28,18,46,Uruguay
+7,Zlatan Ibrahimović,5,2364.0,0,5,26,18,44,Sweden
+8,Harry Kane,10,2228.0,0,13,23,21,44,England
+9,Robbie Keane,5,1935.0,0,10,28,16,44,Republic of Ireland

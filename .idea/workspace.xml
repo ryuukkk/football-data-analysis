@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="1/4 questions done">
+    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="all visualizations done">
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$oup Project.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/all_goals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/all_goals.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/goal_grouped_by_minute.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/goal_grouped_by_minute.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/goals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/goals.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/grouped_by_players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/grouped_by_players.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/matches.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/num_cols.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/num_cols.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/penalties.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/penalties.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/created/top_10_players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/top_10_players.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/Users/sahilnayyar/Library/CloudStorage/OneDrive-Personal/GitHub/DE_Project",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
@@ -53,6 +62,7 @@
     <MESSAGE value="changed pkls to csv" />
     <MESSAGE value="Added Heatmap visualization and save images for all visualization" />
     <MESSAGE value="1/4 questions done" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/4 questions done" />
+    <MESSAGE value="all visualizations done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all visualizations done" />
   </component>
 </project>
