@@ -3,28 +3,21 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
-        <entry key="$PROJECT_DIR$/../../DataspellProjects/AIDA Sem-1/.idea/COMP603.iml">
+        <entry key="$PROJECT_DIR$/../AIDA Sem-1/.idea/COMP603.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../DataspellProjects/AIDA Sem-1/Python/10Mar2023/.idea/10Mar2023.iml">
+        <entry key="$PROJECT_DIR$/../AIDA Sem-1/Python/10Mar2023/.idea/10Mar2023.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../DataspellProjects/COMP603/.idea/COMP603.iml">
-          <value>
-            <JupyterConnectionParameters>
-              <option name="managed" value="true" />
-            </JupyterConnectionParameters>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../DataspellProjects/nYr/.idea/nYr.iml">
+        <entry key="$PROJECT_DIR$/../COMP603/.idea/COMP603.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
@@ -36,6 +29,13 @@
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="/usr/local/bin/python3.9" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nYr/.idea/nYr.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
