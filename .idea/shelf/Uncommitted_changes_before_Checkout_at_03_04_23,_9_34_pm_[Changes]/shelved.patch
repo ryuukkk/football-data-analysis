@@ -1,0 +1,94 @@
+Index: .idea/jupyter-settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"JupyterPersistentConnectionParameters\">\n    <option name=\"moduleParameters\">\n      <map>\n        <entry key=\"$PROJECT_DIR$/../AIDA Sem-1/.idea/COMP603.iml\">\n          <value>\n            <JupyterConnectionParameters>\n              <option name=\"managed\" value=\"true\" />\n            </JupyterConnectionParameters>\n          </value>\n        </entry>\n        <entry key=\"$PROJECT_DIR$/../AIDA Sem-1/Python/10Mar2023/.idea/10Mar2023.iml\">\n          <value>\n            <JupyterConnectionParameters>\n              <option name=\"managed\" value=\"true\" />\n            </JupyterConnectionParameters>\n          </value>\n        </entry>\n        <entry key=\"$PROJECT_DIR$/../COMP603/.idea/COMP603.iml\">\n          <value>\n            <JupyterConnectionParameters>\n              <option name=\"managed\" value=\"true\" />\n            </JupyterConnectionParameters>\n          </value>\n        </entry>\n        <entry key=\"$PROJECT_DIR$/.idea/DE_Project.iml\">\n          <value>\n            <JupyterConnectionParameters>\n              <option name=\"managed\" value=\"true\" />\n              <option name=\"sdkHomePath\" value=\"/usr/local/bin/python3.9\" />\n            </JupyterConnectionParameters>\n          </value>\n        </entry>\n        <entry key=\"$PROJECT_DIR$/../nYr/.idea/nYr.iml\">\n          <value>\n            <JupyterConnectionParameters>\n              <option name=\"managed\" value=\"true\" />\n            </JupyterConnectionParameters>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jupyter-settings.xml b/.idea/jupyter-settings.xml
+--- a/.idea/jupyter-settings.xml	
++++ b/.idea/jupyter-settings.xml	
+@@ -3,6 +3,34 @@
+   <component name="JupyterPersistentConnectionParameters">
+     <option name="moduleParameters">
+       <map>
++        <entry key="$PROJECT_DIR$/../../DataspellProjects/AIDA Sem-1/.idea/COMP603.iml">
++          <value>
++            <JupyterConnectionParameters>
++              <option name="managed" value="true" />
++            </JupyterConnectionParameters>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/../../DataspellProjects/AIDA Sem-1/Python/10Mar2023/.idea/10Mar2023.iml">
++          <value>
++            <JupyterConnectionParameters>
++              <option name="managed" value="true" />
++            </JupyterConnectionParameters>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/../../DataspellProjects/COMP603/.idea/COMP603.iml">
++          <value>
++            <JupyterConnectionParameters>
++              <option name="managed" value="true" />
++            </JupyterConnectionParameters>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/../../DataspellProjects/nYr/.idea/nYr.iml">
++          <value>
++            <JupyterConnectionParameters>
++              <option name="managed" value="true" />
++            </JupyterConnectionParameters>
++          </value>
++        </entry>
+         <entry key="$PROJECT_DIR$/../AIDA Sem-1/.idea/COMP603.iml">
+           <value>
+             <JupyterConnectionParameters>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bf6acb4f-e128-42c3-8efe-f944ca839b7f\" name=\"Changes\" comment=\"1/4 questions done\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/DE_PROJECT.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/DE_PROJECT.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/~$oup Project.docx\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2NmhdRk8vGHxgLi5SxnqcdzER0I\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/Users/sahilnayyar/Library/CloudStorage/OneDrive-Personal/GitHub/DE_Project\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"Testing Commit\" />\n    <MESSAGE value=\"testing git on project\" />\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/main'\" />\n    <MESSAGE value=\"changed pkls to csv\" />\n    <MESSAGE value=\"Added Heatmap visualization and save images for all visualization\" />\n    <MESSAGE value=\"1/4 questions done\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"1/4 questions done\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,9 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="1/4 questions done">
++      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/~$oup Project.docx" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -33,17 +32,17 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "/Users/sahilnayyar/Library/CloudStorage/OneDrive-Personal/GitHub/DE_Project",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/sahilnayyar/Library/CloudStorage/OneDrive-Personal/GitHub/DE_Project&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
