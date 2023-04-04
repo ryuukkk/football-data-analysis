@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="Merge remote-tracking branch 'origin/Sahil_Nayyar' into Sahil_Nayyar">
-      <change afterPath="$PROJECT_DIR$/created/top_teams.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/top_teams.jpg" afterDir="false" />
+    <list default="true" id="bf6acb4f-e128-42c3-8efe-f944ca839b7f" name="Changes" comment="&quot;Working on Visualizations-2&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DE_PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DE_PROJECT.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/all_goals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/all_goals.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/goal_grouped_by_minute.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/goal_grouped_by_minute.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/goals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/goals.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/grouped_by_players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/grouped_by_players.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/matches.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/num_cols.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/num_cols.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/penalties.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/penalties.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/created/top_10_players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/created/top_10_players.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +68,7 @@
     <MESSAGE value="Update code for Histogram" />
     <MESSAGE value="last update" />
     <MESSAGE value="Merge remote-tracking branch 'origin/Sahil_Nayyar' into Sahil_Nayyar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Sahil_Nayyar' into Sahil_Nayyar" />
+    <MESSAGE value="&quot;Working on Visualizations-2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Working on Visualizations-2&quot;" />
   </component>
 </project>
