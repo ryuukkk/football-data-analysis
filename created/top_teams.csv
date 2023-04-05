@@ -1,11 +1,11 @@
-,home_goal,total_matches,away_goal,total_goals
-Germany,118,148,87,205
-England,102,124,84,186
-Belgium,112,134,71,183
-Spain,105,124,61,166
-United States,132,168,27,159
-Brazil,124,160,35,159
-Portugal,80,103,72,152
-Netherlands,93,117,56,149
-Mexico,75,107,73,148
-Japan,92,125,53,145
+,Unnamed: 0,home_goal,total_matches,away_goal,total_goals
+0,Germany,118,148,87,205
+1,England,102,124,84,186
+2,Belgium,112,134,71,183
+3,Spain,105,124,61,166
+4,United States,132,168,27,159
+5,Brazil,124,160,35,159
+6,Portugal,80,103,72,152
+7,Netherlands,93,117,56,149
+8,Mexico,75,107,73,148
+9,Japan,92,125,53,145
